@@ -1,0 +1,69 @@
+[
+    {
+        "conductive": "no",
+        "flutes": "0",
+        "group": "Endmill",
+        "name": "Slow64thForFR4",
+        "params": [
+            {
+                "millVersion": "V1",
+                "pass_depth": 0.25,
+                "spindle_speed": 16400,
+                "stepover": 0.14999999999999999,
+                "xy_feed_rate": 381,
+                "z_feed_rate": 381
+            },
+            {
+                "millVersion": "V2",
+                "pass_depth": 0.25,
+                "spindle_speed": 16400,
+                "stepover": 0.14999999999999999,
+                "xy_feed_rate": 381,
+                "z_feed_rate": 381
+            },
+            {
+                "millVersion": "Pro",
+                "pass_depth": 0.25,
+                "spindle_speed": 16400,
+                "stepover": 0.14999999999999999,
+                "xy_feed_rate": 381,
+                "z_feed_rate": 381
+            },
+            {
+                "millVersion": "Bantam",
+                "pass_depth": 0.25,
+                "spindle_speed": 16400,
+                "stepover": 0.14999999999999999,
+                "xy_feed_rate": 381,
+                "z_feed_rate": 381
+            }
+        ],
+        "profile": [
+            [
+                3.1749999999999998,
+                36.5,
+                0,
+                0
+            ],
+            [
+                3.1749999999999998,
+                2.5874999999999999,
+                0,
+                -1
+            ],
+            [
+                0.38,
+                1.5874999999999999,
+                0,
+                1
+            ],
+            [
+                0.38,
+                0,
+                0,
+                1
+            ]
+        ],
+        "uuid": "{be20a592-0c7f-4b64-a366-7a3c4b6c874d}"
+    }
+]
