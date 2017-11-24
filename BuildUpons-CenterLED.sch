@@ -347,15 +347,15 @@
 <wire x1="-1.88" y1="-1" x2="-3.277" y2="-1" width="0.01" layer="51"/>
 <wire x1="-3.225" y1="1.15" x2="-1.79" y2="1.15" width="0.01" layer="51"/>
 <text x="-4.95" y="0.1" size="0.1" layer="47">Leg PCB Mill Out</text>
-<circle x="-3.21" y="-0.9" radius="0.2" width="0.01" layer="104"/>
-<circle x="-1.95" y="-0.93" radius="0.2" width="0.01" layer="104"/>
-<circle x="-3.11" y="1.1" radius="0.2" width="0.01" layer="104"/>
-<circle x="-1.85" y="1.1" radius="0.2" width="0.01" layer="104"/>
+<circle x="-3.21" y="-0.9" radius="0.4" width="0.01" layer="111"/>
+<circle x="-2.25" y="-0.93" radius="0.4" width="0.01" layer="111"/>
+<circle x="-3.11" y="1.1" radius="0.4" width="0.01" layer="111"/>
+<circle x="-2.15" y="1.1" radius="0.4" width="0.01" layer="111"/>
 <text x="2.08" y="-0.34" size="0.1" layer="47">Guide Pin Aperature</text>
-<wire x1="-3.28" y1="-1.07" x2="-3.22" y2="1.23" width="0.01" layer="104" curve="-37.680752"/>
-<wire x1="-3.22" y1="1.23" x2="-1.73" y2="1.23" width="0.01" layer="104"/>
-<wire x1="-1.73" y1="1.23" x2="-1.84" y2="-1.07" width="0.01" layer="104" curve="17.709803"/>
-<wire x1="-1.84" y1="-1.07" x2="-3.28" y2="-1.07" width="0.01" layer="104"/>
+<wire x1="-3.28" y1="-1.07" x2="-3.22" y2="1.23" width="0.01" layer="111" curve="-37.680752"/>
+<wire x1="-3.22" y1="1.23" x2="-2.03" y2="1.23" width="0.01" layer="111"/>
+<wire x1="-2.03" y1="1.23" x2="-2.14" y2="-1.07" width="0.01" layer="111" curve="17.709803"/>
+<wire x1="-2.14" y1="-1.07" x2="-3.28" y2="-1.07" width="0.01" layer="111"/>
 <wire x1="2.475" y1="0" x2="0" y2="2.475" width="0.01" layer="105" curve="90.082185"/>
 <wire x1="0" y1="2.475" x2="-2.475" y2="0" width="0.01" layer="105" curve="90.401702"/>
 <wire x1="-2.475" y1="0" x2="1.5" y2="0" width="0.01" layer="105"/>
@@ -365,6 +365,14 @@
 <wire x1="3.5" y1="5" x2="0" y2="1.5" width="0.01" layer="105"/>
 <wire x1="0" y1="1.5" x2="1.5" y2="0" width="0.01" layer="105"/>
 <wire x1="-1.79" y1="1.15" x2="-2.01" y2="-0.71" width="0.01" layer="51" curve="50.776999"/>
+<circle x="-3.21" y="-0.9" radius="0.2" width="0.01" layer="104"/>
+<circle x="-1.95" y="-0.93" radius="0.2" width="0.01" layer="104"/>
+<circle x="-3.11" y="1.1" radius="0.2" width="0.01" layer="104"/>
+<circle x="-1.85" y="1.1" radius="0.2" width="0.01" layer="104"/>
+<wire x1="-3.28" y1="-1.07" x2="-3.22" y2="1.23" width="0.01" layer="104" curve="-37.680752"/>
+<wire x1="-3.22" y1="1.23" x2="-1.73" y2="1.23" width="0.01" layer="104"/>
+<wire x1="-1.73" y1="1.23" x2="-1.84" y2="-1.07" width="0.01" layer="104" curve="17.709803"/>
+<wire x1="-1.84" y1="-1.07" x2="-3.28" y2="-1.07" width="0.01" layer="104"/>
 </package>
 </packages>
 <symbols>
